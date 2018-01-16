@@ -17,6 +17,6 @@ app.post('/filter', function(req, res) {
     pyshell.send(req.body.text);
 
     pyshell.on('message', function (words) {
-        res.send(words);
+        res.send(words.trim().split(','));
     });
 });

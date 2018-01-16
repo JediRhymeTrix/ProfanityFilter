@@ -39,4 +39,4 @@ def fetchlist():
 
 f = ProfanityFilter(fetchlist())
 example = raw_input()
-print f.filter(example)
+print ','.join(f.filter(example))
