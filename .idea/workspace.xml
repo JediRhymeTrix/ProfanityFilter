@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ProfanityFilter.py" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/ProfanityFilter.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5b08e0aa-d63c-458d-9f09-b7a4037bcd35.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5b08e0aa-d63c-458d-9f09-b7a4037bcd35/storage_v2/_src_/schema/main.uQUzAA.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DirtyWords.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DirtyWords.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FeedList.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/atob" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/rc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/rc.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/which" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/which.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/abbrev/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/abbrev/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/abbrev/abbrev.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/abbrev/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/accepts/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/accepts/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/accepts/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/accepts/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/accepts/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-align/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-align/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-align/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-align/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-align/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/anymatch/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/anymatch/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/anymatch/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/anymatch/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-diff/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-diff/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-diff/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-diff/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-flatten/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-flatten/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-flatten/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-flatten/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-union/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-union/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-union/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/arr-union/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-flatten/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-flatten/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-flatten/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-unique/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-unique/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-unique/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-unique/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/assign-symbols/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/assign-symbols/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/assign-symbols/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/assign-symbols/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-each/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-each/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-each/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-each/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/async-each/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/LICENSE.DOCS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/bin/atob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/browser-atob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/node-atob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/atob/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/base/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/base/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/base/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/base/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/binary-extensions.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/read.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/boxen/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/boxen/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/boxen/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/boxen/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/lib/braces.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/lib/compilers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/lib/parsers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/lib/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/braces/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bytes/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bytes/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bytes/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bytes/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bytes/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cache-base/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cache-base/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cache-base/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cache-base/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/capture-stack-trace/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/capture-stack-trace/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/capture-stack-trace/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/templates.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/types/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/lib/fsevents-handler.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/lib/nodefs-handler.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chokidar/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/define-property/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/define-property/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/define-property/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/define-property/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-accessor-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-data-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/is-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/class-utils/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cli-boxes/boxes.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cli-boxes/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cli-boxes/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cli-boxes/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cli-boxes/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/collection-visit/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/collection-visit/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/collection-visit/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/collection-visit/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/conversions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-convert/route.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-name/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/component-emitter/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/component-emitter/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/component-emitter/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/configstore/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/configstore/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/configstore/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-type/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-type/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-type/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-type/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-type/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/copy-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/copy-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/copy-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/float.patch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/lib/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-util-is/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-error-class/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-error-class/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-error-class/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-error-class/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeArgument.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeCommand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/crypto-random-string/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/crypto-random-string/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/crypto-random-string/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/crypto-random-string/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/inspector-log.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/lib/deep-extend.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/define-property/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/define-property/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/define-property/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/define-property/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/lib/browser/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/lib/compat/event-listener-count.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/lib/compat/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/depd/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/destroy/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/destroy/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/destroy/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/destroy/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dot-prop/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dot-prop/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dot-prop/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dot-prop/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/LICENCE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer3/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer3/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer3/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/duplexer3/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ee-first/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ee-first/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ee-first/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ee-first/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/encodeurl/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/encodeurl/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/encodeurl/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/encodeurl/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/encodeurl/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-html/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-html/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-html/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-html/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/LICENCE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/examples/pretty.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/readme.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/connect.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/helper/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/merge.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/parse.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/pause.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/pipeline.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/readArray.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/readable.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/replace.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/simple-map.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/spec.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/split.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/stringify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/event-stream/test/writeArray.asynct.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/lib/errname.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/lib/stdio.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/execa/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/lib/compilers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/lib/parsers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/lib/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/define-property/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/define-property/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/define-property/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-accessor-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-data-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-descriptor/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-descriptor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-descriptor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/is-descriptor/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/kind-of/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/kind-of/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/kind-of/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/kind-of/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/application.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/express.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/middleware/init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/middleware/query.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/request.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/response.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/router/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/router/layer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/router/route.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/lib/view.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extend-shallow/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extend-shallow/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extend-shallow/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extend-shallow/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/lib/compilers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/lib/extglob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/lib/parsers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/lib/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extglob/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/darwin-ia32-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/darwin-ia32-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/darwin-x64-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/darwin-x64-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/linux-ia32-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/linux-ia32-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/linux-x64-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/linux-x64-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/repl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/win32-ia32-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/win32-ia32-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/win32-x64-48/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/bin/win32-x64-57/fibers.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/binding.gyp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/build.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/fibers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/future.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/quick-test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/coroutine.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/coroutine.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/fibers.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/libcoro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/libcoro/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/libcoro/conftest.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/libcoro/coro.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/libcoro/coro.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/src/v8-version.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/already-running.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/bad-context.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/child-process.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/current.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/exec.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/exit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/fibonacci.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/finish-multiple.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/future-exception.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/future.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/illegal-yield.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/pool.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/process-title.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/stack-overflow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/stack-overflow2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/started.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fibers/test/unwind.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fill-range/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/finalhandler/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/finalhandler/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/finalhandler/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/finalhandler/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/finalhandler/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/for-in/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forwarded/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forwarded/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forwarded/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forwarded/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forwarded/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fragment-cache/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fragment-cache/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fragment-cache/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fragment-cache/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fresh/HISTORY.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fresh/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fresh/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fresh/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fresh/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/LICENSE.APACHE2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/LICENSE.MIT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/readme.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/from/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/binding.gyp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/.target.mk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.deps/Release/.node.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.deps/Release/fse.node.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.deps/Release/obj.target/action_after_build.stamp.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.deps/Release/obj.target/fse/fsevents.o.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.deps/Users/eshanker/Code/fsevents/lib/binding/Release/node-v48-darwin-x64/fse.node.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/obj.target/action_after_build.stamp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/action_after_build.target.mk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/binding.Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/fse.target.mk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/gyp-mac-tool" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/stage/v1.1.2/fse-v1.1.2-node-v48-darwin-x64.tar.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/install.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v11-darwin-x64/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v46-darwin-x64/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v47-darwin-x64/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v48-darwin-x64/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v57-darwin-x64/fse.node" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/detect-libc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/detect-libc.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/mkdirp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/mkdirp.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/nopt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/nopt.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rc.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rimraf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rimraf.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/semver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/semver.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-conv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-conv.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-sign" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-sign.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-verify" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-verify.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/uuid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/uuid.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/abbrev.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/.tonic_example.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/dist/ajv.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/dist/ajv.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/dist/ajv.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/dist/nodent.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/dist/regenerator.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/ajv.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/ajv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/cache.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/_rules.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/equal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/formats.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/resolve.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/rules.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/schema_obj.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/ucs2length.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/compile/validation_error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/_limit.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/_limitItems.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/_limitLength.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/_limitProperties.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/allOf.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/anyOf.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/coerce.def" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/custom.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/defaults.def" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/definitions.def" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/dependencies.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/enum.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/errors.def" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/format.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/items.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/missing.def" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/multipleOf.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/not.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/oneOf.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/pattern.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/properties.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/ref.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/required.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/uniqueItems.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/v5/_formatLimit.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/v5/constant.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/v5/patternRequired.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/v5/switch.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dot/validate.jst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/_formatLimit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/_limit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/_limitItems.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/_limitLength.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/_limitProperties.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/allOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/anyOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/constant.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/dependencies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/enum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/format.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/items.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/multipleOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/not.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/oneOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/pattern.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/patternRequired.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/properties.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/ref.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/required.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/switch.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/uniqueItems.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/dotjs/validate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/keyword.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/refs/json-schema-draft-04.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/refs/json-schema-v5.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/lib/v5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/.eslintrc.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/compile-dots.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/prepare-tests" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ajv/scripts/travis-gh-pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ansi-regex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ansi-regex/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ansi-regex/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aproba/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aproba/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aproba/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aproba/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/CHANGES.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/tracker-base.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/tracker-group.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/tracker-stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/are-we-there-yet/tracker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/ber/errors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/ber/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/ber/reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/ber/types.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/ber/writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/tst/ber/reader.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asn1/tst/ber/writer.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/assert-plus/AUTHORS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/assert-plus/CHANGES.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/assert-plus/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/assert-plus/assert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/assert-plus/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/bench.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/abort.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/defer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/iterate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/readable_asynckit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/readable_parallel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/readable_serial.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/readable_serial_ordered.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/state.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/streamify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/lib/terminator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/parallel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/serial.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/serialOrdered.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/asynckit/stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws-sign2/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws-sign2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws-sign2/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws-sign2/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/.tern-port" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/aws4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/lru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/aws4/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/balanced-match/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/balanced-match/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/balanced-match/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/balanced-match/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/bcrypt-pbkdf/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/bcrypt-pbkdf/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/bcrypt-pbkdf/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/block-stream/LICENCE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/block-stream/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/block-stream/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/block-stream/block-stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/block-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/images/boom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/brace-expansion/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/brace-expansion/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/buffer-shims/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/buffer-shims/license.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/buffer-shims/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/buffer-shims/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/caseless/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/caseless/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/caseless/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/caseless/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/caseless/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/co/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/co/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/co/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/co/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/co/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/code-point-at/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/code-point-at/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/code-point-at/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/combined-stream/License" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/combined-stream/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/combined-stream/lib/combined_stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/combined-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/README.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/example/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/concat-map/test/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/console-control-strings/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/console-control-strings/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/console-control-strings/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/float.patch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/lib/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/core-util-is/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/CHANGES.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/etc/dashdash.bash_completion.in" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/lib/dashdash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/AUTHORS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/CHANGES.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/assert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/dashdash/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/.coveralls.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/src/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/src/debug.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/debug/src/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/lib/deep-extend.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/License" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/lib/delayed_stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/History.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/License" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delegates/test/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/bin/detect-libc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/lib/detect-libc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/lib/LICENSE-jsbn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/lib/ec.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/lib/sec.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/ecc-jsbn/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/.eslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/.jscs.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extend/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/.gitmodules" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/Makefile.deps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/Makefile.targ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/examples/simple.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/jsl.node.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/lib/extsprintf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/extsprintf/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/forever-agent/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/forever-agent/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/forever-agent/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/forever-agent/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/License" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/lib/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/lib/form_data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/lib/populate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/form-data/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fs.realpath/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fs.realpath/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fs.realpath/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fs.realpath/old.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream-ignore/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream-ignore/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream-ignore/ignore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream-ignore/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/examples/filter-pipe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/examples/pipe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/examples/reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/examples/symlink-write.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/fstream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/abstract.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/collect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/dir-reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/dir-writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/file-reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/file-writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/get-type.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/link-reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/link-writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/proxy-reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/proxy-writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/socket-reader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/writer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/base-theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/has-color.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/plumbing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/process.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/progress-bar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/render-template.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/set-immediate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/set-interval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/spin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/template-item.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/theme-set.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/themes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/wide-truncate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/AUTHORS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/CHANGES.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/assert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/getpass/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/glob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/glob/sync.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/fs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/graceful-fs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/legacy-streams.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/graceful-fs/polyfills.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/afterRequest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/beforeRequest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/browser.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/cache.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/content.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/cookie.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/creator.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/entry.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/har.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/header.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/log.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/page.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/pageTimings.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/postData.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/query.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/request.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/response.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/lib/timings.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-schema/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/browser/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/browser/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/browser/promise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node4/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node4/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node4/promise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node6/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node6/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node6/promise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node7/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node7/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node7/promise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/src/async.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/src/error.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/src/promise.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/has-unicode/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/has-unicode/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/has-unicode/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/bower.json" />
+      <change beforePath="$PROJECT_DIR$/ProfanityFilter.py" afterPath="$PROJECT_DIR$/ProfanityFilter.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProfanityFilter$ProfanityFilter.coverage" NAME="ProfanityFilter Coverage Results" MODIFIED="1516089692794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProfanityFilter$csvparser__1_.coverage" NAME="FeedList Coverage Results" MODIFIED="1516086599829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/ProfanityFilter$csvparser.coverage" NAME="csvparser Coverage Results" MODIFIED="1516081528992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProfanityFilter$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1516080093200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DirtyWords.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DirtyWords.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DirtyWords.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ProfanityFilter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProfanityFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1516090315211" expanded="true" signature="697:725" ph="SELECT word dirty_words" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeedList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FeedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1516089673412" expanded="true" signature="197:250" ph="INSERT INTO dirty_words... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/csvparser.py" />
+        <option value="$PROJECT_DIR$/WordLists/csvparser.py" />
+        <option value="$PROJECT_DIR$/FeedList.py" />
+        <option value="$PROJECT_DIR$/ProfanityFilter.py" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProfanityFilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProfanityFilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.1.2" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ProfanityFilter">
+    <configuration name="FeedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProfanityFilter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FeedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ProfanityFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProfanityFilter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProfanityFilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProfanityFilter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ProfanityFilter" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProfanityFilter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="csvparser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProfanityFilter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csvparser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ProfanityFilter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.csvparser" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FeedList" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.ProfanityFilter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FeedList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.csvparser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="" />
+      <created>1516079124024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516079124024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847425" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProfanityFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1516090315211" expanded="true" signature="697:725" ph="SELECT word dirty_words" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1516089673412" expanded="true" signature="197:250" ph="INSERT INTO dirty_words... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfanityFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1516090315211" expanded="true" signature="697:725" ph="SELECT word dirty_words" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csvparser.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5b08e0aa-d63c-458d-9f09-b7a4037bcd35/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordLists/csvparser.py" />
+    <entry file="das://table:/55d4b67c/5b08e0aa-d63c-458d-9f09-b7a4037bcd35/main.dirty_words">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" text="language IS 'en'">
+            <filter text="language IS 'en'" />
+            <filter text="language" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfanityFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1516090315211" expanded="true" signature="697:725" ph="SELECT word dirty_words" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1516089673412" expanded="true" signature="197:250" ph="INSERT INTO dirty_words... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
