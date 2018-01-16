@@ -31,6 +31,9 @@ def fetchlist():
     output = []
     for row in cursor:
         output.append(row[0].encode('UTF8'))
+    for word in open('custom_list.txt', 'r').read().strip().split('\n'):
+        if word != '' or word != ' ':
+            output.append(word)
 
     conn.close()
 
