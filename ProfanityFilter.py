@@ -40,6 +40,6 @@ def fetchlist():
     return output
 
 
-f = ProfanityFilter(fetchlist())
-example = raw_input()
-print ','.join(f.filter(example))
+def applyFilter(input):
+    f = ProfanityFilter(fetchlist())
+    return f.filter(input)
