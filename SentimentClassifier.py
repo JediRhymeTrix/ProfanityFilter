@@ -12,4 +12,3 @@ def classify(text):
 
     return {'pos': pos_score, 'neg': neg_score}
 
-    # return {'pos': 0.6, 'neg': 0.4}
