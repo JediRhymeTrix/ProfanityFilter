@@ -8,4 +8,4 @@ RUN cd sentiment_classifier && python setup.py install && cp -r src/senti_classi
 
 EXPOSE 5000
 
-CMD ["python", "apppip .py"]
+CMD ["python", "app.py"]
