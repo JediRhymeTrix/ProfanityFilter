@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/ProfanityFilter.py" afterPath="$PROJECT_DIR$/ProfanityFilter.py" />
-      <change beforePath="$PROJECT_DIR$/SentimentClassifier.py" afterPath="$PROJECT_DIR$/SentimentClassifier.py" />
-      <change beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -450,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516189304340</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="changed custom file to custom url">
+      <created>1516191187640</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1516191187640</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -493,7 +496,8 @@
     <MESSAGE value="fixed percentages. working on addind docker support." />
     <MESSAGE value="not sure what changed" />
     <MESSAGE value="minor text fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor text fixes" />
+    <MESSAGE value="changed custom file to custom url" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed custom file to custom url" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
