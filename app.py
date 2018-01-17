@@ -17,10 +17,11 @@ def process_post():
         abort(400)
 
     text = request.json['post']
+    url = request.json['ignore_words'] if 'ignore_words' in request.json else None
 
     print text
 
-    words = ProfanityFilter.applyFilter(text)
+    words = ProfanityFilter.applyFilter(text, url)
     sentiment = SentimentClassifier.classify(text)
 
     print words, sentiment
