@@ -8,7 +8,7 @@ def classify(text):
 
     tot_score = pos_score + neg_score
     pos_score = round(pos_score / tot_score, 1)
-    neg_score = 1 - pos_score
+    neg_score = round(1 - pos_score, 1)
 
     return {'pos': pos_score, 'neg': neg_score}
 
