@@ -5,7 +5,7 @@ from sentiment_classifier import senti_classifier
 
 
 def classify(text):
-    sentences = sent_tokenize(unidecode(text))
+    sentences = sent_tokenize(unidecode(text).encode('UTF-8', 'ignore'))
     pos_score, neg_score = senti_classifier.polarity_scores(sentences)
     pos_score, neg_score = normalize_scores(pos_score, neg_score)
     res = {'pos': pos_score, 'neg': neg_score}
