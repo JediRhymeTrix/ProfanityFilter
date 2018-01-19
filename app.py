@@ -1,7 +1,7 @@
 from flask import Flask, request, abort, jsonify
+
 import ProfanityFilter
 import SentimentClassifier
-
 
 app = Flask(__name__)
 
@@ -17,14 +17,10 @@ def process_post():
         abort(400)
 
     text = request.json['post']
-    url = request.json['ignore_words'] if 'ignore_words' in request.json else None
-
-    print text
+    url = None if 'ignore_words' not in request.json else request.json['ignore_words']
 
     words = ProfanityFilter.applyFilter(text, url)
     sentiment = SentimentClassifier.classify(text)
-
-    print words, sentiment
 
     response = {'words': words, 'sentiment': sentiment}
 
@@ -33,3 +29,5 @@ def process_post():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
+
+# TODO: Improve classifier performance

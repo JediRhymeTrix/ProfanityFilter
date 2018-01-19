@@ -1,6 +1,16 @@
 import re
 import sqlite3
 
+db_name = 'DirtyWords.db'
+conn = sqlite3.connect(db_name)
+cursor = conn.execute('SELECT word FROM dirty_words')
+
+wordlist = []
+for row in cursor:
+    wordlist.append(row[0].encode('UTF8'))
+
+conn.close()
+
 
 class ProfanityFilter(object):
 
@@ -23,28 +33,20 @@ class ProfanityFilter(object):
         return r.findall(text)
 
 
-def fetchlist(url=None):
-    db_name = 'DirtyWords.db'
-    conn = sqlite3.connect(db_name)
-    cursor = conn.execute('SELECT word FROM dirty_words')
-
-    output = []
-    for row in cursor:
-        output.append(row[0].encode('UTF8'))
-
-    if url:
+def fetchlist(url):
         from urllib2 import urlopen
         resp = urlopen(url)
 
         for word in resp.read().strip().split('\n'):
             if word != '' or word != ' ':
-                output.append(word)
-
-    conn.close()
-
-    return output
+                wordlist.append(word)
 
 
 def applyFilter(input, url=None):
-    f = ProfanityFilter(fetchlist(url))
-    return f.filter(input)
+    if url:
+        fetchlist(url)
+
+    f = ProfanityFilter(wordlist)
+    res = f.filter(input)
+
+    return res
