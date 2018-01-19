@@ -1,10 +1,11 @@
 from nltk import sent_tokenize
+from unidecode import unidecode
 
 from sentiment_classifier import senti_classifier
 
 
 def classify(text):
-    sentences = sent_tokenize(text)
+    sentences = sent_tokenize(unidecode(text))
     pos_score, neg_score = senti_classifier.polarity_scores(sentences)
     pos_score, neg_score = normalize_scores(pos_score, neg_score)
     res = {'pos': pos_score, 'neg': neg_score}
