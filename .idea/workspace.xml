@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/ProfanityFilter.py" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="added unicode decoding">
+    <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/DirtyWords.db" afterPath="$PROJECT_DIR$/DirtyWords.db" />
     </list>
@@ -54,7 +54,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -118,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="senti_classifier.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="senti_classifier.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3622">
+            <state relative-caret-position="256">
               <caret line="227" column="5" lean-forward="false" selection-start-line="227" selection-start-column="5" selection-end-line="227" selection-end-column="5" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -515,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516349749666</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="deleted a record">
+      <created>1516350699632</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1516350699633</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -573,7 +580,8 @@
     <MESSAGE value="changed custom file to custom url" />
     <MESSAGE value="fixed dockerization issues" />
     <MESSAGE value="added unicode decoding" />
-    <option name="LAST_COMMIT_MESSAGE" value="added unicode decoding" />
+    <MESSAGE value="deleted a record" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted a record" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -868,16 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3622">
-          <caret line="227" column="5" lean-forward="false" selection-start-line="227" selection-start-column="5" selection-end-line="227" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sentiment_classifier/data/neg-tweets-tokens">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3315">
@@ -891,6 +889,16 @@
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="227" column="5" lean-forward="false" selection-start-line="227" selection-start-column="5" selection-end-line="227" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
