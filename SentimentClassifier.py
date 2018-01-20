@@ -1,6 +1,5 @@
 from nltk import sent_tokenize
 from unidecode import unidecode
-
 from sentiment_classifier import senti_classifier
 
 

@@ -13,16 +13,24 @@ def index():
 
 @app.route('/process', methods=['POST'])
 def process_post():
-    if not request.json or 'post' not in request.json:
+    if not request.json or 'post' not in request.json or 'options' not in request.json:
         abort(400)
 
     text = request.json['post']
+    options = request.json['options']
+
     url = None if 'ignore_words' not in request.json else request.json['ignore_words']
 
-    words = ProfanityFilter.applyFilter(text, url)
-    sentiment = SentimentClassifier.classify(text)
+    response = {}
 
-    response = {'words': words, 'sentiment': sentiment}
+    if 'filter' in options:
+        words = ProfanityFilter.applyFilter(text, url)
+        response['words'] = words
+    if 'sentiment' in options:
+        sentiment = SentimentClassifier.classify(text)
+        response['sentiment'] = sentiment
+    else:
+        response['error'] = 'Invalid Options'
 
     return jsonify(response)
 
