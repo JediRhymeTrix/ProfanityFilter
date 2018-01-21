@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app.yaml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app.yaml" afterPath="$PROJECT_DIR$/app.yaml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -593,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516512107957</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added YAML file">
+      <created>1516513010006</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516513010007</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -656,7 +663,8 @@
     <MESSAGE value="&quot;The road to optimization is long and hard.&quot; - Chuck Testa" />
     <MESSAGE value="more optimization" />
     <MESSAGE value="integrated sentiment_classifier into project" />
-    <option name="LAST_COMMIT_MESSAGE" value="integrated sentiment_classifier into project" />
+    <MESSAGE value="added YAML file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added YAML file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
