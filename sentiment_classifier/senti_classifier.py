@@ -171,11 +171,10 @@ def word_similarity(word1, word2):
     return maxsim
 
 
-def disambiguateWordSenses(sentence, word):
+def disambiguateWordSenses(tokens, word):
     wordsynsets = wn.synsets(word)
     bestScore = 0.0
     result = None
-    tokens = nltk.word_tokenize(sentence)
     for synset in wordsynsets:
         for w in tokens:
             score = 0.0
@@ -209,9 +208,9 @@ def classify(text, synsets_scores, bag_of_words):
             continue
         sentence = sentence.strip()
         sent_score_pos = sent_score_neg = 0
-        # tokens = nltk.word_tokenize(sentence)
+        tokens = nltk.word_tokenize(sentence)
         for word in sentence.split():
-            disambiguate_word_senses = disambiguateWordSenses(sentence, word)
+            disambiguate_word_senses = disambiguateWordSenses(tokens, word)
             if disambiguate_word_senses:
                 disamb_syn = disambiguate_word_senses.name()
                 # print (disamb_syn)

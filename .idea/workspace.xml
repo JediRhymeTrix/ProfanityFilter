@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6371e154-60c4-4ab9-a9e0-bdc01459ff1c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/KeyWordsFinder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sentiment_classifier/senti_heavy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sentiment_classifier/senti_lite.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SentimentClassifier.py" afterPath="$PROJECT_DIR$/SentimentClassifier.py" />
-      <change beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
       <change beforePath="$PROJECT_DIR$/sentiment_classifier/senti_classifier.py" afterPath="$PROJECT_DIR$/sentiment_classifier/senti_classifier.py" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
-              <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+              <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -99,10 +92,8 @@
         <entry file="file://$PROJECT_DIR$/SentimentClassifier.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+              <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,10 +114,8 @@
         <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_heavy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,18 +123,18 @@
       <file leaf-file-name="senti_lite.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_lite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="senti_classifier.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="senti_classifier.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1084">
-              <caret line="223" column="29" lean-forward="false" selection-start-line="223" selection-start-column="29" selection-end-line="223" selection-end-column="29" />
+            <state relative-caret-position="404">
+              <caret line="176" column="17" lean-forward="false" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
               <folding>
                 <element signature="e#309#444#1" expanded="false" />
                 <element signature="e#760#2850#0" expanded="false" />
@@ -154,8 +143,8 @@
                 <element signature="e#3623#4381#0" expanded="false" />
                 <element signature="e#4425#4764#0" expanded="false" />
                 <element signature="e#4982#5267#0" expanded="false" />
-                <element signature="e#5882#6288#0" expanded="false" />
-                <element signature="e#8061#8100#0" expanded="false" />
+                <element signature="e#5838#6244#0" expanded="false" />
+                <element signature="e#8013#8052#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -233,13 +222,13 @@
         <option value="$PROJECT_DIR$/app.yaml" />
         <option value="$PROJECT_DIR$/sentiment_classifier/data/senti_lite.py" />
         <option value="$PROJECT_DIR$/SentimentClassifier.py" />
-        <option value="$PROJECT_DIR$/sentiment_classifier/senti_classifier.py" />
         <option value="$PROJECT_DIR$/sentiment_classifier/senti_lite.py" />
         <option value="$PROJECT_DIR$/sentiment_classifier/senti_heavy.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/KeyWordsFinder.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/sentiment_classifier/senti_classifier.py" />
       </list>
     </option>
   </component>
@@ -731,7 +720,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516513640197</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="refactored sentiment classification int 2 modes: lite and heavy. Also testing out topic detection.">
+      <created>1516613068396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1516613068396</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -777,6 +773,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="added profanity filter logic" />
     <MESSAGE value="fixed callbacks" />
     <MESSAGE value="added ability to use a custom wordlist" />
@@ -793,7 +791,11 @@
     <MESSAGE value="more optimization" />
     <MESSAGE value="integrated sentiment_classifier into project" />
     <MESSAGE value="added YAML file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added YAML file" />
+    <MESSAGE value="refactored sentiment classification int 2 modes: lite and heavy. Also testing out topic detection." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored sentiment classification int 2 modes: lite and heavy. Also testing out topic detection." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -816,9 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,24 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1084">
-          <caret line="223" column="29" lean-forward="false" selection-start-line="223" selection-start-column="29" selection-end-line="223" selection-end-column="29" />
-          <folding>
-            <element signature="e#309#444#1" expanded="false" />
-            <element signature="e#760#2850#0" expanded="false" />
-            <element signature="e#2884#3404#0" expanded="false" />
-            <element signature="e#3465#3590#0" expanded="false" />
-            <element signature="e#3623#4381#0" expanded="false" />
-            <element signature="e#4425#4764#0" expanded="false" />
-            <element signature="e#4982#5267#0" expanded="false" />
-            <element signature="e#5882#6288#0" expanded="false" />
-            <element signature="e#8061#8100#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1055,8 +1037,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_lite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1064,10 +1046,8 @@
     <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_heavy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,10 +1064,8 @@
     <entry file="file://$PROJECT_DIR$/SentimentClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,9 +1090,27 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
-          <caret line="30" column="55" lean-forward="false" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_classifier/senti_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="176" column="17" lean-forward="false" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
+          <folding>
+            <element signature="e#309#444#1" expanded="false" />
+            <element signature="e#760#2850#0" expanded="false" />
+            <element signature="e#2884#3404#0" expanded="false" />
+            <element signature="e#3465#3590#0" expanded="false" />
+            <element signature="e#3623#4381#0" expanded="false" />
+            <element signature="e#4425#4764#0" expanded="false" />
+            <element signature="e#4982#5267#0" expanded="false" />
+            <element signature="e#5838#6244#0" expanded="false" />
+            <element signature="e#8013#8052#0" expanded="false" />
           </folding>
         </state>
       </provider>
