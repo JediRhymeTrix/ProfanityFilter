@@ -25,9 +25,15 @@ def process_post():
 
     if 'filter' in options:
         words = ProfanityFilter.applyFilter(text, url)
-        response['words'] = words
+        response['profanities'] = words
+    # if 'keywords' in options: # keyword finder is WIP
+    #     words = KeyWordsFinder.findKeywords(text)
+    #     response['keywords'] = words
     if 'sentiment' in options:
         sentiment = SentimentClassifier.classify(text)
+        response['sentiment'] = sentiment
+    elif 'sentiment_heavy' in options:
+        sentiment = SentimentClassifier.classify(text, heavy=True)
         response['sentiment'] = sentiment
     else:
         response['error'] = 'Invalid Options'

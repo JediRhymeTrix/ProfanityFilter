@@ -3,3 +3,5 @@ nltk
 numpy
 argparse
 unidecode
+textblob
+python-rake

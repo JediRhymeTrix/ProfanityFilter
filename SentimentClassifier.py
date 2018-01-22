@@ -1,13 +1,15 @@
-from nltk import sent_tokenize
 from unidecode import unidecode
-from sentiment_classifier import senti_classifier
+
+from sentiment_classifier import senti_heavy, senti_lite
 
 
-def classify(text):
-    sentences = sent_tokenize(unidecode(text).encode('UTF-8', 'ignore'))
-    pos_score, neg_score = senti_classifier.polarity_scores(sentences)
-    pos_score, neg_score = normalize_scores(pos_score, neg_score)
-    res = {'pos': pos_score, 'neg': neg_score}
+def classify(text, heavy=False):
+    text = unidecode(text).encode('UTF-8', 'ignore')
+
+    if heavy:
+        res = senti_heavy.classify(text)
+    else:
+        res = senti_lite.classify(text)
 
     return res
 
