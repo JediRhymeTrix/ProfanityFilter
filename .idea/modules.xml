@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ProfanityFilter.iml" filepath="$PROJECT_DIR$/.idea/ProfanityFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyapp/.idea/pyapp.iml" filepath="$PROJECT_DIR$/../pyapp/.idea/pyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../receipt-parser/.idea/receipt-parser.iml" filepath="$PROJECT_DIR$/../receipt-parser/.idea/receipt-parser.iml" />
     </modules>
   </component>
 </project>

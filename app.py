@@ -35,8 +35,6 @@ def process_post():
     elif 'sentiment_heavy' in options:
         sentiment = SentimentClassifier.classify(text, heavy=True)
         response['sentiment'] = sentiment
-    else:
-        response['error'] = 'Invalid Options'
 
     return jsonify(response)
 
