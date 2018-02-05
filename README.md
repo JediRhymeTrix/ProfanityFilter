@@ -10,7 +10,7 @@ Simple profanity filter and sentiment classifier in python
     - Endpoints:  
         - **/process** ```["POST"]```
             * *request* - JSON in the following format:
-
+            
                         ```json
                             {
                                 "post": <text>,
@@ -55,7 +55,7 @@ Simple profanity filter and sentiment classifier in python
 
     ## Examples:
     1. 
-    ```
+    ```json
     req: {
 	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
 	        "options": ["filter"],
@@ -71,7 +71,7 @@ Simple profanity filter and sentiment classifier in python
     ```
     
     2. 
-    ```
+    ```json
     req: {
 	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
 	        "options": ["filter"],
@@ -88,7 +88,7 @@ Simple profanity filter and sentiment classifier in python
     ```
 
     3. 
-    ```
+    ```json
     req: {
 	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
 	        "options": ["filter", "sentiment"],
@@ -108,7 +108,7 @@ Simple profanity filter and sentiment classifier in python
     ```
 
     4. 
-    ```
+    ```json
     req: {
 	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
 	        "options": ["filter", "sentiment_heavy"],
