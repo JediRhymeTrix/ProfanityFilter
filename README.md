@@ -51,3 +51,77 @@ Simple profanity filter and sentiment classifier in python
         - high: **high polarity** and **low subjectivity**
         - med: **high polarity** and **high subjectivity** (classification is mostly correct but exact score may be inaccurate) - ```sentiment_heavy``` might give a better score.
         - low: **low polarity** and **high subjectivity** - low accuracy possible. Use ```sentiment_heavy``` instead.
+
+
+    ## Examples:
+    1. 
+    ```
+    req: {
+	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
+	        "options": ["filter"],
+         }
+
+    res: {
+            "profanities": [
+                "fuck",
+                "chutiya"
+            ],
+            
+        }
+    ```
+    
+    2. 
+    ```
+    req: {
+	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
+	        "options": ["filter"],
+            "url": "https://raw.githubusercontent.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/master/en"
+         }
+
+    res: {
+            "profanities": [
+                "fuck",
+                "chutiya"
+            ],
+            
+        }
+    ```
+
+    3. 
+    ```
+    req: {
+	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
+	        "options": ["filter", "sentiment"],
+            "url": "https://raw.githubusercontent.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/master/en"
+         }
+
+    res: {
+            "profanities": [
+                "fuck",
+                "chutiya"
+            ],
+            "sentiment": {
+                "confidence": "low",
+                "polarity": 0.2
+            }
+         }
+    ```
+
+    4. 
+    ```
+    req: {
+	        "post": "Well, I completely disagree with this “wonderful” lady who doesn’t know anything and acts like she has never set foot in Spain. God, I’d like to gag her! fuck chutiya",
+	        "options": ["filter", "sentiment_heavy"],
+            "url": "https://raw.githubusercontent.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/master/en"
+         }
+
+    res: {
+            "profanities": [
+                "fuck",
+                "chutiya"
+            ],
+            "sentiment": {
+                "polarity": -0.8
+            }
+         }
+    ```
