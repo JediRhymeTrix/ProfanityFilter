@@ -3,7 +3,7 @@ Simple profanity filter and sentiment classifier in python
 
 ## Instructions:
 
-- ### Docker: 
+- <h3>Docker:</h3> 
     - Build: `docker-compose build` 
     - Run: `docker-compose up` 
 - ### API: 
