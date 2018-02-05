@@ -54,6 +54,7 @@ Simple profanity filter and sentiment classifier in python
 
 
     ## Examples:
+    
     1. 
     ```json
     req: {
