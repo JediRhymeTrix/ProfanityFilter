@@ -1,7 +1,7 @@
 import re
 import sqlite3
 
-db_name = 'DirtyWords.db'
+db_name = 'data/DirtyWords.db'
 conn = sqlite3.connect(db_name)
 cursor = conn.execute('SELECT word FROM dirty_words')
 
