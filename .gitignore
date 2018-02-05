@@ -1,0 +1,7 @@
+# IDE/editor junk:
+.idea
+.sonarlint
+.vscode
+
+#Python junk:
+*.pyc
