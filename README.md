@@ -8,7 +8,7 @@ Simple profanity filter and sentiment classifier in python
 - ### API: 
     - URL: [http://localhost:5000/](http://localhost:5000/) 
     - Endpoints:  
-        - **/process** 
+        - **/process** ```["POST"]```
             * *request* - JSON in the following format:
 
                         ```json
