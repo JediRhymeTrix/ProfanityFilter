@@ -2,6 +2,7 @@
 Simple profanity filter and sentiment classifier in python
 
 ## Instructions:
+
 - ### Docker: 
     - Build: `docker-compose build` 
     - Run: `docker-compose up` 
@@ -54,7 +55,7 @@ Simple profanity filter and sentiment classifier in python
 
 
     ## Examples:
-    
+
     1. 
     ```json
     req: {
