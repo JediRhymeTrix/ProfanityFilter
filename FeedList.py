@@ -3,7 +3,7 @@ import sqlite3
 
 db_name = './data/DirtyWords.db'
 conn = sqlite3.connect(db_name)
-conn.text_factory = str
+# conn.text_factory = str
 
 def feed(src, lang):
     for word in open(src, 'r'):
