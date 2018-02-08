@@ -1,9 +1,20 @@
 import sys
 import sqlite3
+import argparse
+
 
 db_name = './data/DirtyWords.db'
 conn = sqlite3.connect(db_name)
 # conn.text_factory = str
+
+
+def parseLang():
+    parser = argparse.ArgumentParser(description='Accepts a 2-letter language code. Default is en.')
+    parser.add_argument('-l', default='en', help='Accepts a 2-letter language code. Default is en')
+    args = parser.parse_args()
+    
+    return args.l
+
 
 def feed(src, lang):
     for word in open(src, 'r'):
@@ -19,5 +30,5 @@ def feed(src, lang):
     conn.commit()
     conn.close()
 
-
-feed('./data/feed_list.txt', 'en')
+parseLang()
+feed('./data/feed_list.txt', lang)

@@ -1,8 +1,9 @@
 # ProfanityFilter
 Simple profanity filter and sentiment classifier in python
 
-NOTE: To add words to the database, add the newline separated words to `data/feed_list.txt` and run `FeedList.py`.
-
+NOTE: To add words to the database, add the newline separated words to `data/feed_list.txt` and run `FeedList.py` with 2-letter language code as command line
+argument. \
+eg. `python FeedList.py -l en`
 ## Instructions:
 
 - <h3>Docker:</h3> 
