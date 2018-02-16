@@ -15,11 +15,12 @@ eg. `python FeedList.py -l en`
         - **/process** ```["POST"]```
             * *request* - JSON in the following format:
             
-                        ```json
+                        ````json
                             {
                                 "post": <text>,
                                 "options": ["filter", "sentiment" / "sentiment_heavy"],
-                                "url": <url of external newline-separated wordlist(optional)>
+                                "wordlist_url": <url of external newline-separated wordlist(optional)>,
+                                "ignore_words_url": <url of newline-separated list of words to ignore(optional)>
                             }
                         ```
             * *response* - JSON in the following format:
