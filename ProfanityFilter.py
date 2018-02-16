@@ -31,7 +31,7 @@ class ProfanityFilter(object):
         r = re.compile(regexp, re.IGNORECASE if self.ignore_case else 0)
 
         res = r.findall(text)
-        if isinstance(res[0], list):
+        if res != [] and isinstance(res[0], list):
             return res
         else:
             words = []
@@ -42,20 +42,31 @@ class ProfanityFilter(object):
             return words
 
 
-def fetchlist(url):
+def fetchlist(url, ignore_words_url, wordlist_local):
         from urllib2 import urlopen
-        resp = urlopen(url)
 
-        for word in resp.read().strip().split('\n'):
-            if word != '' or word != ' ':
-                wordlist.append(word)
+        if url is not None:
+            resp = urlopen(url)
+
+            for word in resp.read().strip().split('\n'):
+                if word != '' or word != ' ':
+                    wordlist_local.append(word)
+        if ignore_words_url is not None:
+            resp = urlopen(ignore_words_url)
+
+            for word in resp.read().strip().split('\n'):
+                if word in wordlist:
+                    wordlist_local.remove(word)
+
+        return wordlist_local
 
 
-def applyFilter(input, url=None):
-    if url:
-        fetchlist(url)
+def applyFilter(input, url=None, ignore_words_url=None):
+    wordlist_local = wordlist
+    if url != None or ignore_words_url != None:
+        wordlist_local = fetchlist(url, ignore_words_url, wordlist_local)
 
-    f = ProfanityFilter(wordlist)
+    f = ProfanityFilter(wordlist_local)
     res = f.filter(input)
 
     return res

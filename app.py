@@ -19,12 +19,14 @@ def process_post():
     text = request.json['post']
     options = request.json['options']
 
-    url = None if 'ignore_words' not in request.json else request.json['ignore_words']
+    url = None if 'wordlist_url' not in request.json else request.json['wordlist_url']
+    ignore_words_url = None if 'ignore_words_url' not in request.json else request.json[
+        'ignore_words_url']
 
     response = {}
 
     if 'filter' in options:
-        words = ProfanityFilter.applyFilter(text, url)
+        words = ProfanityFilter.applyFilter(text, url, ignore_words_url)
         response['profanities'] = words
     # if 'keywords' in options: # keyword finder is WIP
     #     words = KeyWordsFinder.findKeywords(text)
