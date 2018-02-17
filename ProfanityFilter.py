@@ -56,7 +56,7 @@ def fetchlist(url, ignore_words_url, wordlist_local):
             resp = urlopen(ignore_words_url)
 
             for word in resp.read().strip().split('\n'):
-                make_regex_safe(word.encode('UTF8').strip())
+                word = make_regex_safe(word.encode('UTF8').strip())
                 if word in wordlist:
                     wordlist_local.remove(word)
 
