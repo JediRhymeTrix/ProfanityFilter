@@ -49,12 +49,14 @@ def fetchlist(url, ignore_words_url, wordlist_local):
             resp = urlopen(url)
 
             for word in resp.read().strip().split('\n'):
+                word = make_regex_safe(word.encode('UTF8').strip())
                 if word != '' or word != ' ':
                     wordlist_local.append(word)
         if ignore_words_url is not None:
             resp = urlopen(ignore_words_url)
 
             for word in resp.read().strip().split('\n'):
+                make_regex_safe(word.encode('UTF8').strip())
                 if word in wordlist:
                     wordlist_local.remove(word)
 
