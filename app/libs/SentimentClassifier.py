@@ -24,3 +24,5 @@ def normalize_scores(pos_score, neg_score):
         pos_score, neg_score = 0, 0
 
     return pos_score, neg_score
+
+# TODO: Improve "heavy" classifier performance

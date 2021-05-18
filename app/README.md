@@ -1,7 +1,7 @@
 # ProfanityFilter
-Simple profanity filter and sentiment classifier in python - **gunicorn version**
+Simple profanity filter and sentiment classifier in python
 
-NOTE: To add words to the database, add the newline separated words to `data/feed_list.txt` and run `FeedList.py` (data/FeedList.py) with a 2-letter language code as command line
+NOTE: To add words to the database, add the newline separated words to `data/feed_list.txt` and run `FeedList.py` with 2-letter language code as command line
 argument. \
 eg. `python FeedList.py -l en`
 ## Instructions:
@@ -15,7 +15,7 @@ eg. `python FeedList.py -l en`
         - **/process** ```["POST"]```
             * *request* - JSON in the following format:
             
-                        ````json
+                        ```json
                             {
                                 "post": <text>,
                                 "options": ["filter", "sentiment" / "sentiment_heavy"],

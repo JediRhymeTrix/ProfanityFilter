@@ -1,7 +1,7 @@
 from flask import Flask, request, abort, jsonify
+from werkzeug.contrib.fixers import ProxyFix
+from libs import ProfanityFilter, SentimentClassifier
 
-import ProfanityFilter
-import SentimentClassifier
 
 app = Flask(__name__)
 
@@ -20,8 +20,7 @@ def process_post():
     options = request.json['options']
 
     url = None if 'wordlist_url' not in request.json else request.json['wordlist_url']
-    ignore_words_url = None if 'ignore_words_url' not in request.json else request.json[
-        'ignore_words_url']
+    ignore_words_url = None if 'ignore_words_url' not in request.json else request.json['ignore_words_url']
 
     response = {}
 
@@ -41,7 +40,13 @@ def process_post():
     return jsonify(response)
 
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True)
+app.wsgi_app = ProxyFix(app.wsgi_app)
 
-# TODO: Improve classifier performance
+
+if __name__ == '__main__':
+    import logging
+
+    app.logger.addHandler(logging.StreamHandler())
+    app.logger.setLevel(logging.INFO)
+
+    app.run(host='0.0.0.0', debug=True)

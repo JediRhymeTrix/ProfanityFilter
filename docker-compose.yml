@@ -1,6 +1,17 @@
-version: '3'
+version: "3"
+
 services:
   app:
+    restart: always
+    stdin_open: true
+    tty: true
     build: .
+    container_name: app
+    volumes:
+      - ./app:/deploy/app
+      - ./configs/nginx_flask.conf:/etc/nginx/sites-available/nginx_flask.conf
+      - ./configs/gunicorn.conf:/etc/supervisor/conf.d/gunicorn.conf
+      - ./configs/supervisord.conf:/etc/supervisor/conf.d/supervisord.conf
     ports:
-    - "5000:5000"
+      - "5000:80"
+    command: '/usr/bin/supervisord'

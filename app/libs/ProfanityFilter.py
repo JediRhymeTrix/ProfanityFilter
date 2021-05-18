@@ -2,7 +2,7 @@ import re
 import sqlite3
 from utils.regex_safe import make_regex_safe
 
-db_name = 'data/DirtyWords.db'
+db_name = './data/DirtyWords.db'
 conn = sqlite3.connect(db_name)
 cursor = conn.execute('SELECT word FROM dirty_words')
 
@@ -44,7 +44,7 @@ class ProfanityFilter(object):
 
 def fetchlist(url, ignore_words_url, wordlist_local):
         from urllib2 import urlopen
-
+        
         if url is not None:
             resp = urlopen(url)
 
@@ -52,6 +52,7 @@ def fetchlist(url, ignore_words_url, wordlist_local):
                 word = make_regex_safe(word.encode('UTF8').strip())
                 if word != '' or word != ' ':
                     wordlist_local.append(word)
+                    
         if ignore_words_url is not None:
             resp = urlopen(ignore_words_url)
 
@@ -59,13 +60,14 @@ def fetchlist(url, ignore_words_url, wordlist_local):
                 word = make_regex_safe(word.encode('UTF8').strip())
                 if word in wordlist:
                     wordlist_local.remove(word)
-
+                
         return wordlist_local
+
 
 
 def applyFilter(input, url=None, ignore_words_url=None):
     wordlist_local = wordlist
-    if url != None or ignore_words_url != None:
+    if url is not None or ignore_words_url is not None:
         wordlist_local = fetchlist(url, ignore_words_url, wordlist_local)
 
     f = ProfanityFilter(wordlist_local)

@@ -228,8 +228,8 @@ def classify(text, synsets_scores, bag_of_words):
 # ==========  Skipping pickle for a while  ==========*/
 
 
-senti_pickle = open('sentiment_classifier/data/SentiWn.p', 'rU').read()
-bag_of_words_pickle = open('sentiment_classifier/data/bag_of_words.p', 'rU').read()
+senti_pickle = open('libs/sentiment_classifier/data/SentiWn.p', 'rU').read()
+bag_of_words_pickle = open('libs/sentiment_classifier/data/bag_of_words.p', 'rU').read()
 synsets_scores = pickle.loads(senti_pickle)
 bag_of_words = pickle.loads(bag_of_words_pickle)
 bag_of_words = classify_polarity(bag_of_words)

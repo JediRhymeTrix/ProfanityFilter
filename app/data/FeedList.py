@@ -3,7 +3,7 @@ import sqlite3
 import argparse
 
 
-db_name = './data/DirtyWords.db'
+db_name = 'DirtyWords.db'
 conn = sqlite3.connect(db_name)
 # conn.text_factory = str
 
@@ -31,4 +31,4 @@ def feed(src, lang):
     conn.close()
 
 parseLang()
-feed('./data/feed_list.txt', lang)
+feed('feed_list.txt', lang)
